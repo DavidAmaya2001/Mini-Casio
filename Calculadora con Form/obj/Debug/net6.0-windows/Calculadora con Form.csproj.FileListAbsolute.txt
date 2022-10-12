@@ -15,3 +15,20 @@ D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los co
 D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Ejercicio de la seccion\Calculadora con Form\Calculadora con Form\obj\Debug\net6.0-windows\Calculadora con Form.pdb
 D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Ejercicio de la seccion\Calculadora con Form\Calculadora con Form\obj\Debug\net6.0-windows\Calculadora con Form.genruntimeconfig.cache
 D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Ejercicio de la seccion\Calculadora con Form\Calculadora con Form\obj\Debug\net6.0-windows\ref\Calculadora con Form.dll
+D:\Users\Documentos\GitHub TuTioElPollo\Mini-Casio\Calculadora con Form\bin\Debug\net6.0-windows\Calculadora con Form.exe
+D:\Users\Documentos\GitHub TuTioElPollo\Mini-Casio\Calculadora con Form\bin\Debug\net6.0-windows\Calculadora con Form.deps.json
+D:\Users\Documentos\GitHub TuTioElPollo\Mini-Casio\Calculadora con Form\bin\Debug\net6.0-windows\Calculadora con Form.runtimeconfig.json
+D:\Users\Documentos\GitHub TuTioElPollo\Mini-Casio\Calculadora con Form\bin\Debug\net6.0-windows\Calculadora con Form.dll
+D:\Users\Documentos\GitHub TuTioElPollo\Mini-Casio\Calculadora con Form\bin\Debug\net6.0-windows\Calculadora con Form.pdb
+D:\Users\Documentos\GitHub TuTioElPollo\Mini-Casio\Calculadora con Form\obj\Debug\net6.0-windows\Calculadora con Form.csproj.AssemblyReference.cache
+D:\Users\Documentos\GitHub TuTioElPollo\Mini-Casio\Calculadora con Form\obj\Debug\net6.0-windows\Calculadora_con_Form.frmPrincipal.resources
+D:\Users\Documentos\GitHub TuTioElPollo\Mini-Casio\Calculadora con Form\obj\Debug\net6.0-windows\Calculadora con Form.csproj.GenerateResource.cache
+D:\Users\Documentos\GitHub TuTioElPollo\Mini-Casio\Calculadora con Form\obj\Debug\net6.0-windows\Calculadora con Form.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Documentos\GitHub TuTioElPollo\Mini-Casio\Calculadora con Form\obj\Debug\net6.0-windows\Calculadora con Form.AssemblyInfoInputs.cache
+D:\Users\Documentos\GitHub TuTioElPollo\Mini-Casio\Calculadora con Form\obj\Debug\net6.0-windows\Calculadora con Form.AssemblyInfo.cs
+D:\Users\Documentos\GitHub TuTioElPollo\Mini-Casio\Calculadora con Form\obj\Debug\net6.0-windows\Calculadora con Form.csproj.CoreCompileInputs.cache
+D:\Users\Documentos\GitHub TuTioElPollo\Mini-Casio\Calculadora con Form\obj\Debug\net6.0-windows\Calculadora con Form.dll
+D:\Users\Documentos\GitHub TuTioElPollo\Mini-Casio\Calculadora con Form\obj\Debug\net6.0-windows\refint\Calculadora con Form.dll
+D:\Users\Documentos\GitHub TuTioElPollo\Mini-Casio\Calculadora con Form\obj\Debug\net6.0-windows\Calculadora con Form.pdb
+D:\Users\Documentos\GitHub TuTioElPollo\Mini-Casio\Calculadora con Form\obj\Debug\net6.0-windows\Calculadora con Form.genruntimeconfig.cache
+D:\Users\Documentos\GitHub TuTioElPollo\Mini-Casio\Calculadora con Form\obj\Debug\net6.0-windows\ref\Calculadora con Form.dll
